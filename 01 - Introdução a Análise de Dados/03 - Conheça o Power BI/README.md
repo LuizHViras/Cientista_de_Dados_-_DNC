@@ -254,6 +254,7 @@ A partir disso, os elementos passam a interagir dinamicamente.
 
 Dashboards consolidam múltiplas visualizações em uma única visão estratégica.
 Como criar:
+
 -----------
 
 1. Clique em **+**
@@ -292,20 +293,25 @@ Permite democratizar dados dentro da organização.
 ✅ Dicas e Boas Práticas
 =======================
 
-1️⃣ Comece pelas perguntas
---------------------------
+1️⃣ **Comece pelas perguntas**
 
 Defina as perguntas de negócio antes de criar qualquer visual.
-2️⃣ Simplifique
----------------
+
+
+
+2️⃣ **Simplifique**
 
 Evite excesso de métricas e gráficos desnecessários.
+
+
+
 3️⃣ Destaque o essencial
-------------------------
 
 Use cores e indicadores com intenção.
+
+
+
 4️⃣ Atualize os dados
----------------------
 
 Utilize:
 
@@ -314,21 +320,28 @@ Utilize:
 * DirectQuery
 
 * Live Connection
+  
+  
 
-5️⃣ Pense mobile
-----------------
+5️⃣ **Pense mobile**
 
 Modele dashboards considerando uso em celular.
-6️⃣ Use segmentações com critério
----------------------------------
+
+
+
+6️⃣ **Use segmentações com critério**
 
 Evite filtros que distorcem a interpretação.
-7️⃣ Documente métricas
-----------------------
+
+
+
+7️⃣ **Documente métricas**
 
 Explique origem dos dados e cálculos.
-8️⃣ Otimize performance
------------------------
+
+
+
+8️⃣ **Otimize performance**
 
 * Modele corretamente
 
