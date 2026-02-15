@@ -1,0 +1,43 @@
+Baixei o arquivo xlsx que possui duas abas
+Base Compra:
+- idcompra
+- idcanalvenda
+- bandeira
+- Data
+- Preço
+- Preço_com_frete
+- Nome_Departamento
+- estado
+- cliente_Log
+
+Base Cliente
+- cliente_Log
+- idade
+- uf_nascimento
+- renda
+
+Criei um novo arquivo de Power BI, puxando as duas tabelas existente, fazendo suas formatações e padronizando o nome das colunas no Power Query (Retirando os "_" e começando todas elas com letra maiúscula)
+
+Substitui na coluna "Id Canal Vendas" o valor "Mobil" para "Mobile"
+
+Identifiquei a formatação e propriedade das colunas, especialmente as de localização
+
+Fiz duas abas de visualização: Visão Compra e Visão Cliente
+
+Visão Compra:
+	Informações Primárias
+	- Id Compra (Verificar quantidade de vendas realizadas)
+	- Data (Identifica data da compra, bom para estudos históricos)
+	- Estado (Identifica concentração de vendas dentro do Brasil)
+	- Preço com e sem Frete
+
+	Informações Secundárias
+	- Bandeira (Classificar o meio de pagamento mais utilizado)
+	- Id Canal Venda (Identifica melhores canais de venda)
+	- Nome Departamento (Identifica o departamento do produto comprado)
+
+	Defini as cores que utilizaria nesse Dash, sendo elas o Branco, Azul e Azul Petróleo
+
+	Criei as medidas de Qntd Vendas, Valor Total (Com e Sem Frete) e Valor de Frete, os  big numbers, adicionei o titulo do 	dashboard, 4 cards com os big numbers (Qntd Vendas, Valor Total, Valor total com frete e última venda), seus respectivos 	ícones e um quadro para centralizar os filtros
+	
+	Inicialmente iria fazer alguns filtros separados para cada um dos KPIs, porém percebi que seria necessários vários 	gráficos, portanto fiz um parâmetro de seleção de medidas
