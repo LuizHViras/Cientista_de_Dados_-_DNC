@@ -63,8 +63,8 @@ Com base no contexto fornecido, é necessário criar dashboards para permitir qu
 ============================
 
 **Para te ajudar nesse processo, o PO do projeto pediu alguns gráficos para ter visibilidade do processo:**
-
 **Etapa 01) Tipo de gráfico: Cartões**
+
 --------------------------------------
 
 Primeiro passo é analisar as tabelas recebidos no Excel, olhe as colunas, entenda os valores que possuem nela e a definição para o negócio
@@ -114,18 +114,5 @@ Os critérios de avaliação mostram como você será avaliado em relação ao s
 | **Tipo de gráfico: Barras** | Crie 4 gráficos de barras: 2 gráficos comparando vendas por categoria (um em quantidade de vendas e outro em valor de vendas), 1 histograma de idades dos clientes, e 1 gráfico de barras para a distribuição de rendas dos clientes | 30             |
 | **Filtro**                  | Crie filtros interativos para as seguintes categorias: bandeira, estado, canal de venda, departamento, idade, faixa de renda, e estado de nascimento                                                                                 | 20             |
 
-📆 Entrega
-==========
-
-As informações necessárias para resolução do desafio estão no arquivo e também nessa instrução.
-
-### 🚨 Atente-se ao formato de entrega deste desafio!
-
-1. Nomeie o seu dashboard com seu RID e o número do desafio. Exemplo: RID1234_Desafio01
-2. No PowerBI, vá em Salvar Como > Arquivo .**pbix**
-3. Submeta o arquivo .pbix em um drive
-4. Altere as configurações do arquivo para deixá-lo público.
-5. Copie o link após alterar a permissão de acesso.
-6. Submeta o link do arquivo (e não da pasta do drive!) na plataforma.
-
-<img title="" src="https://file.notion.so/f/f/6a055055-52ec-4ebb-a697-63027c951344/c0a7cc62-ced2-4edb-84a2-c7ae96440337/EnviarDesafio.gif?table=block&id=0893e436-0a1e-4bef-ae05-a08db9043edf&spaceId=6a055055-52ec-4ebb-a697-63027c951344&expirationTimestamp=1771041585664&signature=Zqz8zswvL0DPkZYYCe4RfXTGAtwl3EBTIiFLriITG1A" alt="">
+> 
+> ==========
