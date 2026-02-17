@@ -12,11 +12,11 @@ O objetivo é transformar dados brutos em um painel analítico que permita explo
 
 🖼️ Preview
 
-![Visão Compras](C:\Users\luizh\Desktop\Cursos\DNC\Cientista%20de%20Dados%20-%20DNC\01%20-%20Introdução%20a%20Análise%20de%20Dados\05%20-%20Desafio%20-%20Preveja%20Resultados%20E-commerce\Imagens\Prints%20Dash%20Final\Visão%20Compras.png)
+![Visão Compras](https://github.com/LuizHViras/Cientista_de_Dados_-_DNC/blob/main/01%20-%20Introdu%C3%A7%C3%A3o%20a%20An%C3%A1lise%20de%20Dados/05%20-%20Desafio%20-%20Preveja%20Resultados%20E-commerce/Imagens/Prints%20Dash%20Final/Vis%C3%A3o%20Compras.png?raw=true)
 
-![Visão Cliente](C:\Users\luizh\Desktop\Cursos\DNC\Cientista%20de%20Dados%20-%20DNC\01%20-%20Introdução%20a%20Análise%20de%20Dados\05%20-%20Desafio%20-%20Preveja%20Resultados%20E-commerce\Imagens\Prints%20Dash%20Final\Visão%20Cliente.png)
+![Visão Clientes](https://github.com/LuizHViras/Cientista_de_Dados_-_DNC/blob/main/01%20-%20Introdu%C3%A7%C3%A3o%20a%20An%C3%A1lise%20de%20Dados/05%20-%20Desafio%20-%20Preveja%20Resultados%20E-commerce/Imagens/Prints%20Dash%20Final/Vis%C3%A3o%20Cliente.png?raw=true)
 
-![Relacionamentos Tabelas](C:\Users\luizh\Desktop\Cursos\DNC\Cientista%20de%20Dados%20-%20DNC\01%20-%20Introdução%20a%20Análise%20de%20Dados\05%20-%20Desafio%20-%20Preveja%20Resultados%20E-commerce\Imagens\Prints%20Dash%20Final\Relacionamentos%20Tabelas.png)
+![Relacionamento Tabelas](https://github.com/LuizHViras/Cientista_de_Dados_-_DNC/blob/main/01%20-%20Introdu%C3%A7%C3%A3o%20a%20An%C3%A1lise%20de%20Dados/05%20-%20Desafio%20-%20Preveja%20Resultados%20E-commerce/Imagens/Prints%20Dash%20Final/Relacionamentos%20Tabelas.png?raw=true)
 
 ***
 
