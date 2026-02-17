@@ -29,6 +29,8 @@ O objetivo é transformar dados brutos em um painel analítico que permita explo
 
 * **Base Cliente**
 
+* **Base UF** (Origem: https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil ; Acesso em: 15/02/2026)
+
 ### 🔹 Tratamento realizado (Power Query)
 
 * Padronização dos nomes das colunas
