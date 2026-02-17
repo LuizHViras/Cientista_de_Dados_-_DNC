@@ -22,14 +22,14 @@ O conteúdo será atualizado de forma progressiva, acompanhando a evolução das
 
 ### 📊 MATÉRIA 1 — Introdução à Análise de Dados
 
-Status: **Em Andamento 🚧**  
+Status: **Concluído ✅**  
 Fundamentos de dados, tipos, estruturas, ferramentas e papéis na área.
 
 * * *
 
 ### 📈 MATÉRIA 2 — Excel Intermediário
 
-Status: **Não Iniciado ⛔**  
+Status: **Em Andamento 🚧**  
 Manipulação, análise e visualização de dados utilizando Excel.
 
 * * *

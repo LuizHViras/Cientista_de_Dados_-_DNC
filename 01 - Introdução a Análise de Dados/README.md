@@ -1,8 +1,14 @@
-# 📊 MATÉRIA 1 — Introdução à Análise de Dados
+# 📊 MÓDULO 01 — Introdução à Análise de Dados
 
 Este módulo apresenta os **fundamentos da Análise de Dados**, cobrindo desde conceitos básicos até as primeiras análises práticas com ferramentas amplamente utilizadas no mercado, como **Excel e Power BI**.
 
 O objetivo é criar uma **base sólida** sobre dados, contexto de negócio e rotinas profissionais antes de avançar para ferramentas e modelos mais avançados.
+
+---
+
+## 📌 Status do Módulo
+
+**Concluído ✅**
 
 ---
 
@@ -85,12 +91,6 @@ O módulo é finalizado com um **projeto prático no Power BI**, onde os conceit
 - Criar dashboards
 - Gerar insights
 - Resolver um problema de negócio
-
----
-
-## 📌 Status do Módulo
-
-**Em Andamento 🚧**
 
 ---
 
