@@ -12,11 +12,11 @@ O objetivo é transformar dados brutos em um painel analítico que permita explo
 
 🖼️ Preview
 
-![_(Inserir prints das páginas Visão Compras e Visão Cliente)](file:///C:/Users/luizh/Pictures/Typedown/49a9bb27-a4e9-4e89-ba48-782c7cdc4655.png)
+![Visão Compras](C:\Users\luizh\Desktop\Cursos\DNC\Cientista%20de%20Dados%20-%20DNC\01%20-%20Introdução%20a%20Análise%20de%20Dados\05%20-%20Desafio%20-%20Preveja%20Resultados%20E-commerce\Imagens\Prints%20Dash%20Final\Visão%20Compras.png)
 
-![3f72dd79-3770-4895-8650-c53454a42e50](file:///C:/Users/luizh/Pictures/Typedown/3f72dd79-3770-4895-8650-c53454a42e50.png)
+![Visão Cliente](C:\Users\luizh\Desktop\Cursos\DNC\Cientista%20de%20Dados%20-%20DNC\01%20-%20Introdução%20a%20Análise%20de%20Dados\05%20-%20Desafio%20-%20Preveja%20Resultados%20E-commerce\Imagens\Prints%20Dash%20Final\Visão%20Cliente.png)
 
-![31165acb-b74f-4982-b97d-ac11d4fe6b16](file:///C:/Users/luizh/Pictures/Typedown/31165acb-b74f-4982-b97d-ac11d4fe6b16.png)
+![Relacionamentos Tabelas](C:\Users\luizh\Desktop\Cursos\DNC\Cientista%20de%20Dados%20-%20DNC\01%20-%20Introdução%20a%20Análise%20de%20Dados\05%20-%20Desafio%20-%20Preveja%20Resultados%20E-commerce\Imagens\Prints%20Dash%20Final\Relacionamentos%20Tabelas.png)
 
 ***
 
