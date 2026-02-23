@@ -10,13 +10,13 @@ O objetivo é transformar dados brutos em um painel analítico que permita explo
 
 * * *
 
-🖼️ Preview
+## 🖼️ Preview
 
-![Visão Compras](https://github.com/LuizHViras/Cientista_de_Dados_-_DNC/blob/main/01%20-%20Introdu%C3%A7%C3%A3o%20a%20An%C3%A1lise%20de%20Dados/05%20-%20Desafio%20-%20Preveja%20Resultados%20E-commerce/Imagens/Prints%20Dash%20Final/Vis%C3%A3o%20Compras.png?raw=true)
+<img title="" src="https://raw.githubusercontent.com/LuizHViras/Cientista_de_Dados_-_DNC/refs/heads/main/01%20-%20Introdução%20a%20Análise%20de%20Dados/05%20-%20Desafio%20-%20Preveja%20Resultados%20E-commerce/Imagens/Prints%20Dash%20Final/Visão%20Compras.png" alt="Visão Compras">
 
-![Visão Clientes](https://github.com/LuizHViras/Cientista_de_Dados_-_DNC/blob/main/01%20-%20Introdu%C3%A7%C3%A3o%20a%20An%C3%A1lise%20de%20Dados/05%20-%20Desafio%20-%20Preveja%20Resultados%20E-commerce/Imagens/Prints%20Dash%20Final/Vis%C3%A3o%20Cliente.png?raw=true)
+<img title="" src="https://raw.githubusercontent.com/LuizHViras/Cientista_de_Dados_-_DNC/refs/heads/main/01%20-%20Introdução%20a%20Análise%20de%20Dados/05%20-%20Desafio%20-%20Preveja%20Resultados%20E-commerce/Imagens/Prints%20Dash%20Final/Visão%20Cliente.png" alt="Visão Cliente">
 
-![Relacionamento Tabelas](https://github.com/LuizHViras/Cientista_de_Dados_-_DNC/blob/main/01%20-%20Introdu%C3%A7%C3%A3o%20a%20An%C3%A1lise%20de%20Dados/05%20-%20Desafio%20-%20Preveja%20Resultados%20E-commerce/Imagens/Prints%20Dash%20Final/Relacionamentos%20Tabelas.png?raw=true)
+<img title="" src="https://raw.githubusercontent.com/LuizHViras/Cientista_de_Dados_-_DNC/refs/heads/main/01%20-%20Introdução%20a%20Análise%20de%20Dados/05%20-%20Desafio%20-%20Preveja%20Resultados%20E-commerce/Imagens/Prints%20Dash%20Final/Relacionamentos%20Tabelas.png" alt="Relacionamento Tabelas">
 
 ***
 
