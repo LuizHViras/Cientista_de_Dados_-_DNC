@@ -29,14 +29,14 @@ Fundamentos de dados, tipos, estruturas, ferramentas e papéis na área.
 
 ### 📈 MÓDULO 02 — Excel Intermediário
 
-Status: **Em Andamento 🚧**  
+Status: **Concluído ✅**  
 Manipulação, análise e visualização de dados utilizando Excel.
 
 * * *
 
 ### 🧮 MÓDULO 03 — SQL para Análise de Dados
 
-Status: **Não Iniciado ⛔**  
+Status: **Em Andamento 🚧**  
 Consultas, manipulação de dados e criação de métricas em bancos relacionais.
 
 * * *

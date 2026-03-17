@@ -9,7 +9,7 @@ O conteúdo aborda desde a ambientação na ferramenta até recursos mais analí
 
 ## 📌 Status do Módulo
 
-**Em andamento 🚧**
+**Concluído ✅**
 
 ---
 
