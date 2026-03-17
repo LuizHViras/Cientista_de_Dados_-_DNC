@@ -83,7 +83,5 @@ Com base na Tabela Dinâmica da etapa anterior, crie os **seguintes três gráfi
 
 ###### 💡Dica: Todos esses dados já existem na Tabela Dinâmica. Use rótulos claros, cores consistentes e organize os gráficos de forma visualmente limpa na aba Painel.
 
-📝 Critérios de Avaliação
-=========================
 
-Os critérios de avaliação são as conclusões das etapas propostas de acordo com os critérios abaixo.
+=========================
