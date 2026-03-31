@@ -37,18 +37,11 @@ Manipulação, análise e visualização de dados utilizando Excel.
 ### 🧮 MÓDULO 03 — SQL para Análise de Dados
 
 Status: **Em Andamento 🚧**  
-Consultas, manipulação de dados e criação de métricas em bancos relacionais.
+Consultas, manipulação de dados e criação de métricas em bancos relacionais. 
 
 * * *
 
-### 🚀 MÓDULO 04 — Acelerador de Carreira I
-
-Status: **Não Iniciado ⛔**  
-Desenvolvimento profissional e direcionamento de carreira na área de dados.
-
-* * *
-
-### 🧪 MÓDULO 05 — Projeto Prático I
+### 🧪 MÓDULO 04 — Projeto Prático I
 
 Status: **Não Iniciado ⛔**
 
@@ -56,49 +49,49 @@ Status: **Não Iniciado ⛔**
 
 * * *
 
-### 🐍 MÓDULO 06 — Python
+### 🐍 MÓDULO 05 — Python
 
 Status: **Não Iniciado ⛔**  
 Programação aplicada à análise e manipulação de dados.
 
 * * *
 
-### 📐 MÓDULO 07 — Estatística com Python
+### 📐 MÓDULO 06 — Estatística com Python
 
 Status: **Não Iniciado ⛔**  
 Estatística descritiva, inferencial e aplicações práticas em dados.
 
 * * *
 
-### 🧹 MÓDULO 08 — Data Cleaning e Wrangling
+### 🧹 MÓDULO 07 — Data Cleaning e Wrangling
 
 Status: **Não Iniciado ⛔**  
 Tratamento, limpeza e preparação de dados para análise.
 
 * * *
 
-### 📉 MÓDULO 09 — Modelos de Classificação e Regressão
+### 📉 MÓDULO 08 — Modelos de Classificação e Regressão
 
 Status: **Não Iniciado ⛔**  
 Modelos preditivos supervisionados aplicados a problemas reais.
 
 * * *
 
-### 🧩 MÓDULO 10 — Modelos de Clusterização
+### 🧩 MÓDULO 09 — Modelos de Clusterização
 
 Status: **Não Iniciado ⛔**  
 Aprendizado não supervisionado e segmentação de dados.
 
 * * *
 
-### ☁️ MÓDULO 11 — Modelos de Nuvem e IA
+### ☁️ MÓDULO 10 — Modelos de Nuvem e IA
 
 Status: **Não Iniciado ⛔**  
 Cloud Computing, inteligência artificial e aplicações modernas em dados.
 
 * * *
 
-### 🧪 MÓDULO 12 — Projeto Prático II
+### 🧪 MÓDULO 11 — Projeto Prático II
 
 Status: **Não Iniciado ⛔**
 
