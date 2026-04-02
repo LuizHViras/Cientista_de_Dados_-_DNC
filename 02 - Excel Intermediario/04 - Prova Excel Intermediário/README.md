@@ -26,7 +26,7 @@ Na aba Resumo Estoque, é necessário calcular o total de entradas de um produto
 
 A) =SOMASE(Entrada!D:D;Entrada!B:B;A2)
 
-=SOMASES(Entrada!D:D;Entrada!B:B;A2) ✅
+B) =SOMASES(Entrada!D:D;Entrada!B:B;A2) ✅
 
 C) =SOMASES(Entrada!B:B;A2;Entrada!D:D)
 
