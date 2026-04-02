@@ -26,7 +26,7 @@ Na aba Resumo Estoque, é necessário calcular o total de entradas de um produto
 
 A) =SOMASE(Entrada!D:D;Entrada!B:B;A2)
 
-B) <span style="color:green">=SOMASES(Entrada!D:D;Entrada!B:B;A2) ✔</span>
+=SOMASES(Entrada!D:D;Entrada!B:B;A2) ✅
 
 C) =SOMASES(Entrada!B:B;A2;Entrada!D:D)
 
@@ -41,7 +41,7 @@ Na aba Resumo Estoque, é necessário calcular o Valor em Estoque de cada produt
 
 **Alternativas:**
 
-A) <span style="color:green">=(SOMASE(Entrada!A:A;A2;Entrada!C:C)-SOMASE(Saida!A:A;A2;Saida!C:C))*PROCV(A2;Cadastro!A:E;5;FALSO) ✔</span>
+A) =(SOMASE(Entrada!A:A;A2;Entrada!C:C)-SOMASE(Saida!A:A;A2;Saida!C:C))*PROCV(A2;Cadastro!A:E;5;FALSO) ✅
 
 B) =(SOMASE(Entrada!A:A;A2;Entrada!C:C)-SOMASE(Saida!A:A;A2;Saida!C:C))*PROCV(A2;Cadastro!A:E;4;FALSO)
 
@@ -64,7 +64,7 @@ B) Ele substitui a necessidade de fórmulas para identificar inconsistências no
 
 C) Ele impede que valores fora do intervalo definido sejam inseridos na planilha.
 
-D) <span style="color:green">Ele altera apenas a aparência das células com base em regras, sem modificar os dados originais. ✔</span>
+D) Ele altera apenas a aparência das células com base em regras, sem modificar os dados originais. ✅
 
 * * *
 
@@ -77,7 +77,7 @@ Uma planilha utiliza validação de dados com lista suspensa para selecionar cat
 
 A) Reduz o tamanho do arquivo do Excel ao limitar o número de valores possíveis.
 
-B) <span style="color:green">Garante padronização das informações inseridas, evitando variações que podem comprometer análises. ✔</span>
+B) Garante padronização das informações inseridas, evitando variações que podem comprometer análises. ✅
 
 C) Permite calcular automaticamente totais e médias por categoria.
 
@@ -92,13 +92,13 @@ Na aba Resumo Estoque, é necessário criar a coluna Status do Produto com base 
 
 **Alternativas:**
 
-A) <span style="color:green">=IFS(F2<0;"Estoque Negativo"; F2=0;"Obsoleto"; E(F2>=1;F2<=20);"Crítico"; E(F2>=21;F2<=100);"OK"; F2>100;"Excesso") ✔</span>
+A) =SES(F2<0;"Estoque Negativo"; F2=0;"Obsoleto"; E(F2>=1;F2<=20);"Crítico"; E(F2>=21;F2<=100);"OK"; F2>100;"Excesso") ✅
 
 B) =SE(F2<=0;"Obsoleto"; SE(E(F2>=1;F2<=20);"Crítico"; SE(E(F2>=21;F2<=100);"OK"; "Excesso")))
 
-C) =IFS(F2<0;"Estoque Negativo"; F2=0;"Obsoleto"; F2<=20;"Crítico"; F2<=100;"OK"; F2>=100;"Excesso")
+C) =SES(F2<0;"Estoque Negativo"; F2=0;"Obsoleto"; F2<=20;"Crítico"; F2<=100;"OK"; F2>=100;"Excesso")
 
-D) =IFS(F2<0;"Estoque Negativo"; F2=0;"Obsoleto"; F2<=20;"Crítico"; F2>=100;"Excesso"; F2<=100;"OK")
+D) =SES(F2<0;"Estoque Negativo"; F2=0;"Obsoleto"; F2<=20;"Crítico"; F2>=100;"Excesso"; F2<=100;"OK")
 
 * * *
 
@@ -111,7 +111,7 @@ Qual é a principal finalidade de uma Tabela Dinâmica no Excel ao trabalhar com
 
 A) Alterar automaticamente os valores da base de dados original para facilitar a análise.
 
-B) <span style="color:green">Permitir reorganizar e resumir grandes volumes de dados em diferentes perspectivas sem alterar a base original. ✔</span>
+B) Permitir reorganizar e resumir grandes volumes de dados em diferentes perspectivas sem alterar a base original. ✅
 
 C) Substituir completamente o uso de fórmulas para cálculos em planilhas.
 
@@ -130,7 +130,7 @@ A) Colocar SKU em Linhas e Categoria em Valores utilizando a agregação Contage
 
 B) Colocar Valor em Estoque em Linhas e Categoria em Valores utilizando a agregação Média.
 
-C) <span style="color:green">Colocar Categoria em Linhas e Valor em Estoque em Valores utilizando a agregação Soma. ✔</span>
+C) Colocar Categoria em Linhas e Valor em Estoque em Valores utilizando a agregação Soma. ✅
 
 D) Colocar Preço em Valores utilizando a agregação Soma e Categoria em Filtros.
 
@@ -149,7 +149,7 @@ B) O gráfico dinâmico elimina a necessidade de atualizar os dados da planilha.
 
 C) O gráfico dinâmico substitui completamente a Tabela Dinâmica utilizada na análise.
 
-D) <span style="color:green">O gráfico dinâmico permanece conectado à Tabela Dinâmica e se atualiza automaticamente quando os dados da análise são atualizados. ✔</span>
+D) O gráfico dinâmico permanece conectado à Tabela Dinâmica e se atualiza automaticamente quando os dados da análise são atualizados.✅
 
 * * *
 
@@ -162,7 +162,7 @@ Em uma planilha grande utilizada para análise de dados, qual é a principal fin
 
 A) Impedir que células específicas sejam editadas por outros usuários.
 
-B) <span style="color:green">Permitir que determinadas linhas ou colunas permaneçam visíveis ao rolar a planilha. ✔</span>
+B) Permitir que determinadas linhas ou colunas permaneçam visíveis ao rolar a planilha. ✅
 
 C) Bloquear o cálculo automático das fórmulas da planilha.
 
@@ -181,6 +181,6 @@ A) Manter todas as informações do produto repetidas em cada planilha para evit
 
 B) Consolidar todas as informações em uma única planilha para reduzir a quantidade de abas no arquivo.
 
-C) <span style="color:green">Utilizar um identificador único (como SKU) presente em todas as tabelas para permitir o relacionamento entre os dados. ✔</span>
+C) Utilizar um identificador único (como SKU) presente em todas as tabelas para permitir o relacionamento entre os dados. ✅
 
 D) Utilizar cores e formatações diferentes para identificar visualmente os produtos em cada planilha.
